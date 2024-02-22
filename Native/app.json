@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "aa15135",
+    "description": "",
+    "scheme": "aa15135",
+    "slug": "aa15135",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": ["android", "ios", "web"],
+    "orientation": "portrait",
+    "primaryColor": "#000000",
+    "icon": "src/assets/icon.png",
+    "splash": {
+      "backgroundColor": "#000000",
+      "image": "src/assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "versionCode": 2
+    },
+    "ios": {
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    }
+  }
+}

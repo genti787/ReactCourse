@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.expo/
+node_modules/
+build
+.npm/
+yarn.lock
+package-lock.json
